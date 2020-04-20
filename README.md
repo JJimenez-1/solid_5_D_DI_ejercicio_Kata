@@ -1,0 +1,1 @@
+# solid_5_D_DI_ejercicio_Kata
